@@ -6,7 +6,7 @@ Fun climbing up: http://108.61.211.185:8081/
 
 ## Solution
 
-The webpage results nginx configuration.
+The webpage results nginx [configuration](https://github.com/ljagiello/junior-36c3-ctf/blob/master/4-travel-web-easy/nginx.conf).
 
 The nginx is misconfigured in `location` section. It does not end with a `/` and as a result of that allows path traversal.
 
