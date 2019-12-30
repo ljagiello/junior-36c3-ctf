@@ -22,7 +22,7 @@ It's seems important logic is in `_INIT_1` and `_FINI_1`:
 
 ```
 
-unsigned char flag[] = "junior-totally_the_flag_or_maybe_not";
+char flag[] = "junior-totally_the_flag_or_maybe_not";
 
 void _INIT_1(void)
 
