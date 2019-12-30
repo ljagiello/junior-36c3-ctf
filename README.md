@@ -9,4 +9,4 @@ https://kuchenblech.xyz/
 
 ## Scoreboard
 
-I've finished CTF at #24 place.
+I've finished CTF at #24 place (from 817 registered).
